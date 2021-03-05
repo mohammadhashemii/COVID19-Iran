@@ -2,7 +2,7 @@
 ![](https://github.com/mohammadhashemii/COVID19-Iran/blob/master/polynomialRegression.png)
 
 
-#This project was the computational Intelligence course assignment-1
+#This project was the computational intelligence course assignment#1
 
 In this project, we had to use the COVID-19 statistical dataset which has been released by [Wikipedia](https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Iran). So the dataset is available in `COVID19_IRAN.csv`
 
